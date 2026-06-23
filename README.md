@@ -3,8 +3,8 @@ Is the ___**BEST**___ .luau Editor of all time!
 ---
 ## why is that?
 
-| For Roblox Devs | Exploiters | Right Align |
+| For Roblox Devs | Exploiters | NSFW dudes |
 |:-----------     |:----------:|------------:|
-| Uses the normal roblox Scripts.          | Item 2     | Item 3      |
+| Uses the normal roblox Scripting Functions.          | has the "WriteFile" functions     | Nothing ||Sexual||      |
 | Item A          | Item B     | Item C      |
 
