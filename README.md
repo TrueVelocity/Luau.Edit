@@ -4,8 +4,8 @@
 and you might ask...
 ## why is that?
 
-| For Roblox Devs | Exploiters | NSFW dudes |
-|:-----------     |:----------:|------------:|
-| Uses the **normal roblox Scripting Functions.**          | has the **"WriteFile"** functions     | Anime Furries      |
-| Item A          | Item B     | Item C      |
+| For Roblox Devs | Exploiters |
+|:----------------|-----------:|
+| Uses the **normal roblox Scripting Functions.**          | has the **"WriteFile"** functions     |
+| Item A          | Item B     
 
