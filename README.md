@@ -1,6 +1,6 @@
 # Luau.Edit
 
-### Is the ___**BEST**___ .luau Editor of all time!
+#### Is the ___**BEST**___ .luau Editor of all time!
 ---
 ## why is that?
 
